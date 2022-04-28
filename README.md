@@ -1,2 +1,3 @@
 # wise_week6
-Node.js, Express
+Express, Node.js
+Routing Lab
