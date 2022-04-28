@@ -50,16 +50,6 @@ server.listen(PORT, ()=>{
 // /red .... +use...+get
 // /red/about .... +get...+post
 // /orange ....+get...+get
-// server listening at PORT
-
-
-
-// CRUD
-// =====Routing
-// Create === post.. did it.
-// Read === get
-// Update === put
-// Delete === delete
 
 //npm init -y
 //npm i express
